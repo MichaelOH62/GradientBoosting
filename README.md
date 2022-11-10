@@ -1,4 +1,4 @@
-# GradientBoostingFromScratch
+# Gradient Boosting From Scratch
 
 Michael O'Hanlon
 
