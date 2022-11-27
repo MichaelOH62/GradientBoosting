@@ -10,4 +10,4 @@ This repository contains a notebook on classification using Gradient Boosting.
 
 The Gradient Boosting implementation is applied to the following dataset: https://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set#
 
-Link to Medium tutorial:
+Link to Medium tutorial: https://medium.com/@mpo7/3edf09d99664
